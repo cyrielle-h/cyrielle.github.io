@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome Cyrielle's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cyrielle-h/cyrielle.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
